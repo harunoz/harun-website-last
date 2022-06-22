@@ -1,6 +1,7 @@
 ---
 title: Harun Oz
-role: Professor of Artificial Intelligence
+role: Cybersecurity Researcher
+avatar_filename: vesikanew.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
