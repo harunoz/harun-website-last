@@ -17,6 +17,11 @@ social:
     link: https://scholar.google.com/citations?user=VBU-R9kAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
+  - display:
+      header: false
+    link: mailto:harunozweb@gmail.com
+    icon_pack: far
+    icon: gmail
 organizations: []
 education:
   courses:
