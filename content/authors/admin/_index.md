@@ -15,7 +15,7 @@ social:
   - display:
       header: false
     link: https://scholar.google.com/citations?user=VBU-R9kAAAAJ&hl=en
-    icon_pack: fas
+    icon_pack: ai
     icon: google-scholar
   - display:
       header: false
