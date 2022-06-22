@@ -25,10 +25,10 @@ organizations: []
 education:
   courses:
     - institution: Florida International University
-      year: 2020
-      course: Ph.D. in Computer Engineering, 2024
-    - course: BS.c. in Computer Engineering, 2019
-      institution: "Antalya Bilim University (Ranked Second) "
+      year: 2024
+      course: Ph.D. in Computer Engineering
+    - course: "BS.c. in Computer Engineering, (Ranked Second) "
+      institution: "Antalya Bilim University "
       year: 2019
 email: ""
 superuser: true
