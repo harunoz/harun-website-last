@@ -15,13 +15,13 @@ social:
   - display:
       header: false
     link: https://scholar.google.com/citations?user=VBU-R9kAAAAJ&hl=en
-    icon_pack: ai
+    icon_pack: fas
     icon: google-scholar
   - display:
       header: false
     link: mailto:harunozweb@gmail.com
     icon_pack: far
-    icon: ":envelope:"
+    icon: envelope
 organizations: []
 education:
   courses:
