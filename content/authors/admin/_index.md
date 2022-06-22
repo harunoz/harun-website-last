@@ -20,9 +20,7 @@ social:
     link: https://www.linkedin.com/
 organizations: []
 education:
-  courses:
-    - course: dsf
-      institution: sdf
+  courses: []
 email: ""
 superuser: true
 highlight_name: true
