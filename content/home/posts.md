@@ -23,8 +23,6 @@ design:
   view: compact
   columns: "2"
 ---
-asdasd
-
-asdasda
-
-asd
+* Our work entitled "A..
+* Our work ..
+*
