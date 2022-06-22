@@ -24,7 +24,11 @@ design:
   columns: "2"
 ---
 * We have discovered serious vulnerabilities in the open-source web applications, which were also validated by 19 CVEs.
-* Our poster entitled ' 
-
-
+* We have discovered serious vulnerabilities in the open-source web applications, which were also validated by 19 CVEs.
+* We have discovered serious vulnerabilities in the open-source web applications, which were also validated by 19 CVEs.
+* We have discovered serious vulnerabilities in the open-source web applications, which were also validated by 19 CVEs.
+* We have discovered serious vulnerabilities in the open-source web applications, which were also validated by 19 CVEs.
+* We have discovered serious vulnerabilities in the open-source web applications, which were also validated by 19 CVEs.We have discovered serious vulnerabilities in the open-source web applications, which were also validated by 19 CVEs.
+*
+*
 *
