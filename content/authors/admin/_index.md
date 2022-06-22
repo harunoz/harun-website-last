@@ -20,7 +20,10 @@ social:
     link: https://www.linkedin.com/
 organizations: []
 education:
-  courses: []
+  courses:
+    - institution: Florida International University
+      year: 2019
+      course: PhD
 email: ""
 superuser: true
 highlight_name: true
