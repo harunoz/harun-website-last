@@ -23,6 +23,8 @@ design:
   view: compact
   columns: "2"
 ---
-* Our work entitled "A..
-* Our work ..
+* We have discovered serious vulnerabilities in the open-source web applications, which were also validated by 19 CVEs.
+* Our poster entitled ' 
+
+
 *
