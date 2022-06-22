@@ -18,11 +18,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-organizations:
-  - name: Florida International University
-    url: https://www.fiu.edu/
+organizations: []
 education:
-  courses: []
+  courses:
+    - course: dsf
+      institution: sdf
 email: ""
 superuser: true
 highlight_name: true
