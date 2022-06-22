@@ -4,7 +4,10 @@ role: Cybersecurity Researcher
 avatar_filename: vesikanew.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests: []
+interests:
+  - Web Security
+  - System Security
+  - Vulnerabilities
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,8 +25,11 @@ organizations: []
 education:
   courses:
     - institution: Florida International University
+      year: 2020
+      course: Ph.D. in Computer Engineering, 2024
+    - course: BS.c. in Computer Engineering, 2019
+      institution: "Antalya Bilim University (Ranked Second) "
       year: 2019
-      course: PhD
 email: ""
 superuser: true
 highlight_name: true
