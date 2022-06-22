@@ -2,7 +2,7 @@
 widget: pages
 widget_id: News
 headless: true
-weight: 60
+weight: 0
 title: News
 subtitle: null
 content:
@@ -21,7 +21,7 @@ content:
   order: desc
 design:
   view: compact
-  columns: "2"
+  columns: "1"
 ---
 We have discovered serious vulnerabilities in the open-source web applications, which were also validated by **19 CVEs.**
 
