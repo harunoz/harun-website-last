@@ -34,8 +34,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Harun Oz is a 3rd year Computer Engineering PhD student at Florida International University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-
+I am currently a Computer Engineering Ph.D. student at Florida International University, where I am a part of the [](https://seclab.illinois.edu/)[Cyber-Physical Systems Security Lab](https://csl.fiu.edu/) advised by [](https://cgunter.cs.illinois.edu/)Professor [Selcuk Uluagac](https://sites.google.com/fiu.edu/selcuk).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
