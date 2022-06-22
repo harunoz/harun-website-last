@@ -12,6 +12,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=VBU-R9kAAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
 organizations: []
 education:
   courses:
