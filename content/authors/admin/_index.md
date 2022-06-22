@@ -21,7 +21,7 @@ social:
       header: false
     link: mailto:harunozweb@gmail.com
     icon_pack: far
-    icon: gmail
+    icon: ":envelope:"
 organizations: []
 education:
   courses:
