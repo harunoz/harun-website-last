@@ -1,7 +1,7 @@
 ---
 title: Harun Oz
 role: Cybersecurity Researcher
-avatar_filename: vesikanew.jpg
+avatar_filename: 1602197031229.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
