@@ -9,15 +9,6 @@ interests:
   - System Security
   - Vulnerabilities
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/harunoz
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -27,7 +18,7 @@ education:
     - institution: Florida International University
       year: 2024
       course: Ph.D. in Computer Engineering
-    - course: "BS.c. in Computer Engineering, (Ranked Second) "
+    - course: "B.Sc. in Computer Engineering, (Ranked Second) "
       institution: "Antalya Bilim University "
       year: 2019
 email: ""
