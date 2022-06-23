@@ -24,7 +24,7 @@ social:
     icon: envelope
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fas
     link: https://github.com/harunoz
     icon: github
 organizations: []
