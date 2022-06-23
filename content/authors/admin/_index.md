@@ -22,7 +22,7 @@ social:
     icon: envelope
   - display:
       header: false
-    icon_pack: ai
+    icon_pack: fab
     link: https://github.com/harunoz
     icon: github
 organizations: []
