@@ -7,7 +7,6 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Web Security
   - System Security
-  - Vulnerabilities
 social:
   - icon: linkedin
     icon_pack: fab
@@ -24,7 +23,7 @@ social:
     icon: envelope
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: ai
     link: https://github.com/harunoz
     icon: github
 organizations: []
