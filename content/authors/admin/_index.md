@@ -2,8 +2,7 @@
 title: Harun Oz
 role: Cybersecurity Researcher
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Web Security
   - System Security
@@ -39,7 +38,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am currently a Computer Engineering Ph.D. student at Florida International University, where I am a part of the [](https://seclab.illinois.edu/)[Cyber-Physical Systems Security Lab](https://csl.fiu.edu/) advised by [](https://cgunter.cs.illinois.edu/)Professor [Selcuk Uluagac](https://sites.google.com/fiu.edu/selcuk).
+I am currently a Computer Engineering 3rd Ph.D. student at Florida International University, where I am a part of the [](https://seclab.illinois.edu/)[Cyber-Physical Systems Security Lab](https://csl.fiu.edu/) advised by [](https://cgunter.cs.illinois.edu/)Professor [Selcuk Uluagac](https://sites.google.com/fiu.edu/selcuk).
 
  I am primarily conducting research related to general systems and web security topics. As a Ph.D. student, I am always looking forward to embarking on new and challenging problems in the cybersecurity field.
 
