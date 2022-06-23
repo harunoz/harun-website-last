@@ -9,7 +9,7 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ozharun/
   - display:
       header: false
     link: https://scholar.google.com/citations?user=VBU-R9kAAAAJ&hl=en
