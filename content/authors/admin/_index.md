@@ -22,6 +22,11 @@ social:
     link: mailto:harunozweb@gmail.com
     icon_pack: far
     icon: envelope
+  - display:
+      header: false
+    icon_pack: far
+    link: https://github.com/harunoz
+    icon: github
 organizations: []
 education:
   courses:
