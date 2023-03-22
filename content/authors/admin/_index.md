@@ -38,8 +38,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am currently a Computer Engineering Ph.D. student at Florida International University, where I am a part of the [](https://seclab.illinois.edu/)[Cyber-Physical Systems Security Lab](https://csl.fiu.edu/) advised by [](https://cgunter.cs.illinois.edu/)Professor [Selcuk Uluagac](https://sites.google.com/fiu.edu/selcuk).
+I am currently pursuing my Ph.D. in Computer Engineering at Florida International University, where I have the privilege of being a member of the esteemed  [](https://seclab.illinois.edu/)[Cyber-Physical Systems Security Lab](https://csl.fiu.edu/)  under the supervision of Professor [Selcuk Uluagac](https://sites.google.com/fiu.edu/selcuk).
 
- I am primarily conducting research related to general systems and web security topics. As a Ph.D. student, I am always looking forward to embarking on new and challenging problems in the cybersecurity field.
+My primary research interests revolve around system and web security, with a focus on addressing contemporary cybersecurity challenges. As a dedicated Ph.D. candidate, I am eager to explore and tackle new, complex problems in the ever-evolving landscape of cybersecurity
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
