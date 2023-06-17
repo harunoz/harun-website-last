@@ -23,8 +23,10 @@ design:
   view: compact
   columns: "1"
 ---
-* Our paper entitled "RøB: Ransomware over Modern web browsers" has been acepted to the **32nd USENIX Security Symposium. **
+* Our paper entitled "RøB: Ransomware over Modern web browsers" has been acepted to the **32nd USENIX Security Symposium.**
 * 
+
+
 
   I am honored for receiving the first **Publication Incentive Award** for my works from Florida International University Electrical and Computer Engineering department.
 * We have discovered serious vulnerabilities in the open-source web applications, which were also validated by **19 CVEs.**
