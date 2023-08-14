@@ -31,14 +31,14 @@ education:
     - institution: Florida International University
       year: 2024
       course: Ph.D. in Computer Engineering
-    - course: "B.Sc. in Computer Engineering, (Ranked Second) "
+    - course: B.Sc. in Computer Engineering
       institution: "Antalya Bilim University "
       year: 2019
 email: ""
 superuser: true
 highlight_name: true
 ---
-I am currently pursuing my Ph.D. in Computer Engineering at Florida International University, where I have the privilege of being a member of the esteemed  [](https://seclab.illinois.edu/)[Cyber-Physical Systems Security Lab](https://csl.fiu.edu/)  under the supervision of Professor [Selcuk Uluagac](https://sites.google.com/fiu.edu/selcuk).
+I am currently a Ph.D candidate in Computer Engineering at Florida International University, where I have the privilege of being a member of [](https://seclab.illinois.edu/)[Cyber-Physical Systems Security Lab](https://csl.fiu.edu/)  under the supervision of Professor [Selcuk Uluagac](https://sites.google.com/fiu.edu/selcuk).
 
 My primary research interests revolve around system and web security, with a focus on addressing contemporary cybersecurity challenges. As a dedicated Ph.D. candidate, I am eager to explore and tackle new, complex problems in the ever-evolving landscape of cybersecurity
 
