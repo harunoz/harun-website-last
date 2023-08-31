@@ -1,7 +1,7 @@
 ---
 title: Harun Oz
 role: Cybersecurity Researcher
-avatar_filename: avatar.jpg
+avatar_filename: harun-oz-1-dgital.jpg
 bio: ""
 interests:
   - Web Security
