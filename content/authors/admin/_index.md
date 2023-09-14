@@ -4,6 +4,7 @@ role: Cybersecurity Researcher
 avatar_filename: avatar.jpg
 bio: ""
 interests:
+  - Security and Privacy
   - Web Security
   - System Security
 social:
