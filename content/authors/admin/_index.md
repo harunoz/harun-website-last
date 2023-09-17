@@ -41,6 +41,6 @@ highlight_name: true
 ---
 I am currently a Ph.D candidate in Computer Engineering at Florida International University, where I have the privilege of being a member of [](https://seclab.illinois.edu/)[Cyber-Physical Systems Security Lab](https://csl.fiu.edu/) under the supervision of Professor [Selcuk Uluagac](https://nweb.eng.fiu.edu/selcuk/).
 
-My primary research interests revolve around system and web security, with a focus on addressing contemporary cybersecurity challenges. As a dedicated Ph.D. candidate, I am eager to explore and tackle new, complex problems in the ever-evolving landscape of cybersecurity
+My primary research interests revolve around system and web security, with focus on security and privacy of the emerging web technologies and applications. As a dedicated Ph.D. candidate, I am eager to explore and tackle new, complex problems in the ever-evolving landscape of cybersecurity.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
