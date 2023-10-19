@@ -26,7 +26,8 @@ social:
     icon_pack: fab
     link: https://github.com/harunoz
     icon: github
-organizations: []
+organizations:
+  - name: W3C
 education:
   courses:
     - institution: Florida International University
