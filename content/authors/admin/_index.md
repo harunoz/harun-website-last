@@ -39,8 +39,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am currently a Ph.D candidate in Computer Engineering at Florida International University, where I have the privilege of being a member of [](https://seclab.illinois.edu/)[Cyber-Physical Systems Security Lab](https://csl.fiu.edu/) under the supervision of Professor [Selcuk Uluagac](https://nweb.eng.fiu.edu/selcuk/).
-
-My primary research interests revolve around system and web security, with focus on security and privacy of the emerging web technologies and applications. As a dedicated Ph.D. candidate, I am eager to explore and tackle new, complex problems in the ever-evolving landscape of cybersecurity.
+I am a Ph.D. candidate at Florida International University, under the supervision of Professor [Selcuk Uluagac ](https://web.eng.fiu.edu/selcuk/)at the Cyber-Physical Systems Security Lab. In addition to that, I recently became an invited expert at the [Privacy Interest Group on W3C. ](https://www.w3.org/groups/ig/privacy/ipr/)My Ph.D. topic centers on the security and privacy of emerging web technologies and applications.\
+\
+My primary research interests revolve around system and web security, with a focus on the security and privacy of emerging web technologies and applications. I utilize data-centric methods to investigate online threats and develop tools to identify them in a scalable and dependable way.\
+\
+For more, please check out my personal website: https://www.harunoz.net/
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
