@@ -3,6 +3,7 @@ widget: test
 widget_id: Publications
 headless: true
 weight: 10
+title: Publications
 active: true
 design:
   columns: "2"
