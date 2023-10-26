@@ -1,6 +1,6 @@
 ---
 widget: test
-widget_id: my-widget-123
+widget_id: Publications
 headless: true
 weight: 10
 active: true
