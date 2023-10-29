@@ -4,7 +4,7 @@ widget_id: Publications
 headless: true
 weight: 0
 title: Publications
-active: true
+active: false
 design:
   columns: "1"
   background:
