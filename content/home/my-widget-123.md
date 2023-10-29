@@ -1,5 +1,5 @@
 ---
-widget: publications
+widget: Publications
 widget_id: Publications
 headless: true
 weight: 10
