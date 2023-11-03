@@ -23,6 +23,9 @@ design:
   view: compact
   columns: "1"
 ---
+
+
+* R﻿ecevied a Dissertation Year Fellowship (DYF) from FIU ECE department! 
 * I﻿ joined [W3C Privacy Interest Group (PING) ](https://www.w3.org/groups/ig/privacy/ipr/)as an Invited Expert. 
 * Our paper [](https://www.usenix.org/conference/usenixsecurity23/presentation/oz)50 Shades of Support: A Device-Centric Analysis of Android Security Updates has been accepted to The Network and Distributed System Security Symposium (NDSS) 2024.
 * Our paper [RøB: Ransomware over Modern web browsers](https://www.usenix.org/conference/usenixsecurity23/presentation/oz) has been accepted to the **32nd USENIX Security Symposium.**
