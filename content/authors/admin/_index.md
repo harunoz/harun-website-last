@@ -4,9 +4,8 @@ role: Cybersecurity Researcher
 avatar_filename: avatar.jpg
 bio: ""
 interests:
+  - Machine Learning
   - Security and Privacy
-  - Web Security
-  - System Security
 social:
   - icon: linkedin
     icon_pack: fab
