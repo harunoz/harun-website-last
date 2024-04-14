@@ -24,7 +24,7 @@ design:
   columns: "1"
 ---
 * Our work on ransomware on modern web browsers, presented in USENIX Security '23, has been featured in the [FIU news!](https://news.fiu.edu/2024/ransomware-can-hide-in-the-websites-you-upload-files-to)
-* Our paper [](https://www.usenix.org/conference/usenixsecurity23/presentation/oz)(In)Security of File Uploads in Node.js has been accepted to the  International World Wide Web (WWW)   Conference, 2024.
+* Our paper [](https://www.usenix.org/conference/usenixsecurity23/presentation/oz)(In)Security of File Uploads in Node.js has been accepted to the  International World Wide Web (WWW) Conference, 2024.
 * R﻿ecevied a Dissertation Year Fellowship (DYF) from FIU ECE department! 
 * I﻿ joined [W3C Privacy Interest Group (PING) ](https://www.w3.org/groups/ig/privacy/ipr/)as an Invited Expert. 
 * Our paper [](https://www.usenix.org/conference/usenixsecurity23/presentation/oz)50 Shades of Support: A Device-Centric Analysis of Android Security Updates has been accepted to The Network and Distributed System Security Symposium (NDSS) 2024.
