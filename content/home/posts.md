@@ -23,6 +23,7 @@ design:
   view: compact
   columns: "1"
 ---
+* M﻿y research works has received top honors at the [](https://www.linkedin.com/in/ACoAAArszMoBwlAV6CrgECoZXarqtxbep40Z90Y)[FIU KFSCIS](https://www.cis.fiu.edu/research-symposium-highlights-innovations-in-cybersecurity-and-ai/) Research Symposium in Cybersecurity & AI. 
 * Our work on ransomware on modern web browsers, presented in USENIX Security '23, has been featured in the [FIU news!](https://news.fiu.edu/2024/ransomware-can-hide-in-the-websites-you-upload-files-to)
 * Our paper [](https://www.usenix.org/conference/usenixsecurity23/presentation/oz)(In)Security of File Uploads in Node.js has been accepted to the  International World Wide Web (WWW) Conference, 2024.
 * R﻿ecevied a Dissertation Year Fellowship (DYF) from FIU ECE department! 
