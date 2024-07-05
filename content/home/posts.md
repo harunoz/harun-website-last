@@ -28,7 +28,7 @@ design:
 * Our paper [﻿*"(In)Security of File Uploads in Node.js"*](https://dl.acm.org/doi/10.1145/3589334.3645342) has been accepted to the  International World Wide Web (WWW) Conference, 2024.
 * R﻿ecevied a Dissertation Year Fellowship (DYF) from FIU ECE department! 
 * Our paper [](https://www.usenix.org/conference/usenixsecurity23/presentation/oz)50 Shades of Support: A Device-Centric Analysis of Android Security Updates has been accepted to The Network and Distributed System Security Symposium (NDSS) 2024.
-* Our rn web browsecurity Symposium.﻿
+* Our paper ["RøB: Ransomware over Modern web browsers"](https://www.usenix.org/conference/usenixsecurity23/presentation/oz) has been accepted to the 32nd USENIX Security Symposium.
 * I am honored for receiving the first [Publication Incentive Award](https://ece.fiu.edu/people/Ph.D.%20Students/index.html) for my works from Florida International University Electrical and Computer Engineering department.
 * Our poster “*[Feasibility of Malware Visualization Techniques against Adversarial Machine Learning Attacks](https://www.ieee-security.org/TC/SP2022/downloads/SP22-posters/sp22-posters-30.pdf)*[](https://www.ieee-security.org/TC/SP2022/downloads/SP22-posters/sp22-posters-30.pdf)*"* has been accepted for publication in the **43rd IEEE Symposium on Security and Privacy (S&P)**.
 * Our paper *“[A First Look at Code Obfuscation for WebAssembly](https://dl.acm.org/doi/pdf/10.1145/3507657.3528560)"* has been accepted as a short paper to **15th ACM Conference on Security and Privacy in Wireless and Mobile Networks.**
