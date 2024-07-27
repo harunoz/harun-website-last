@@ -23,6 +23,8 @@ design:
   view: compact
   columns: "1"
 ---
+* I received Outstanding Ph.D. Graduate Award from Florida International University College of Engineering & Computing. 
+
 * My research work has received top honors at the [FIU KFSCIS Research Symposium in Cybersecurity & AI](https://www.cis.fiu.edu/research-symposium-highlights-innovations-in-cybersecurity-and-ai/).
 
 * Our paper ["(In)Security of File Uploads in Node.js"](https://dl.acm.org/doi/10.1145/3589334.3645342) has been accepted to the International World Wide Web (WWW) Conference, 2024.
