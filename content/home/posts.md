@@ -23,7 +23,7 @@ design:
   view: compact
   columns: "1"
 ---
-* I received Outstanding [Ph.D. Graduate Award](https://commencement.fiu.edu/outstanding-graduates/) from Florida International University College of Engineering & Computing.
+* I received [Outstanding Ph.D. Graduate Award](https://commencement.fiu.edu/outstanding-graduates/) from Florida International University College of Engineering & Computing.
 
 * My research work has received top honors at the [FIU KFSCIS Research Symposium in Cybersecurity & AI](https://www.cis.fiu.edu/research-symposium-highlights-innovations-in-cybersecurity-and-ai/).
 
