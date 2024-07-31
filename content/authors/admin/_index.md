@@ -1,6 +1,6 @@
 ---
 title: Harun Oz
-role: PhD Candidate
+role: Research Scientist
 avatar_filename: avatar.jpg
 bio: ""
 interests:
