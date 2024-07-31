@@ -38,4 +38,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a Ph.D. candidate at Florida International University, where I work under the supervision of Professor [Selcuk Uluagac](https://web.eng.fiu.edu/selcuk/) in the Cyber-Physical Systems Security Lab. My research interest lies in the application of advanced machine learning techniques to explore the security and privacy implications of emerging technologies and their associated threats.
+I completed my Ph.D. at Florida International University, where I was part of the [Cyber-Physical Systems Security Lab](https://csl.fiu.edu/) under the supervision of Professor [Selcuk Uluagac](https://web.eng.fiu.edu/selcuk/). My research interest lies in the application of advanced machine learning techniques to explore the security and privacy implications of emerging technologies and their associated threats.
