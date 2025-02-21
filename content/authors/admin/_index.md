@@ -5,7 +5,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Machine Learning
-  - Security and Privacy
+  - Security
+  - Privacy
 social:
   - icon: linkedin
     icon_pack: fab
