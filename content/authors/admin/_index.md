@@ -1,6 +1,6 @@
 ---
 title: Harun Oz
-role: Research Scientist
+role: Senior Research Scientist
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -39,4 +39,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am currently a Research Scientist at [Meta](https://research.facebook.com/). My research interest lies in application of advanced machine learning techniques to explore the security and privacy implications of emerging technologies and their associated threats.
+I am currently a Senior Research Scientist at [Meta](https://research.facebook.com/). My research interest lies in application of advanced machine learning techniques to explore the security and privacy implications of emerging technologies and their associated threats.
