@@ -7,7 +7,7 @@ authors:
   - Ahmet Aris
   - Albert Levi
   - A Selcuk Uluagac
-doi: https://doi.org/10.1145/3514229
+doi: "10.1145/3514229"
 publication: ACM Computing Surveys
 publication_short: ""
 abstract: In recent years, ransomware has been one of the most notorious malware
